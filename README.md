@@ -42,8 +42,11 @@ This is where we include some Basic lines of code or queries or even some of the
 SELECT A,B,C
 WHERE A> 15
 ```
+### Analysis
 
-'''
+**Bold**
+*Italics*
+
 
 
 
